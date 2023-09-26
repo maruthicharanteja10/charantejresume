@@ -1,0 +1,115 @@
+body{
+  background-color: rgb(37, 39, 39);
+
+}
+.main{
+  display: flex;
+  
+}
+.row1{
+  background-color: black;
+  height:1850px ;
+  width:50px ;
+  border: 1px solid black;
+  margin-left: 300px;
+}
+.row2{
+  background-color: black;
+  height: 1850px;
+  width: 300px;
+  border: 1px solid black;
+  /* margin-left: 400px; */
+  color: whitesmoke;
+
+}
+.row2 h3{
+ 
+ font: 1.3em "Fira Sans", sans-serif;
+ margin-bottom: 10px;
+}
+.row2 h2{
+  font-size: 30px;
+  font: 1.2em "Fira Sans", sans-serif;
+  font-size: 30px;
+  margin-bottom: 0px;
+  margin-top: 25px;
+  
+}
+.row2 li{
+  font-size: 16px;
+  font-weight: bolder;
+  font-family: "Gill Sans", sans-serif;
+}
+.row2 p{
+  font-size: 14px;
+  font-family: cursive;
+}
+.photo{
+  border-radius: 300px;
+ margin-right: 10px;
+  margin-top: 20px;
+} 
+.media{
+  display: flex;
+align-items:center ;
+margin-left: 30px;
+  
+}
+
+
+.row3{
+  background-color: white;
+  height:1850px ;
+  width:40px ;
+  border: 1px 0px  solid black;
+ font: small-caps  24px/1 sans-serif;
+}
+
+.row4{
+  
+  height: 1850px;
+  width: 500px;
+  border: 0px solid black;
+  background-color: white;
+  
+}
+
+.row4 h1{
+  font-size: 40px;
+  font: small-caps bold 35px/1 sans-serif;
+}
+.row4 h2{
+  font:  "Fira Sans", sans-serif;
+  font-size: 30px;
+  margin-bottom: 0px;
+  font-weight: bolder;
+}
+.row4 h3{
+  font-size: 20px;
+  font-weight: bolder;
+  display: inline-block;
+}
+.row4 li{
+  font-size: 16px;
+  font-weight: bolder;
+  font-family: "Gill Sans", sans-serif;
+}
+.row4 sub{
+  font-family: system-ui;
+  font-size: 30px;
+}
+.row4 p{
+  font-size: 16px;
+  font-weight: bolder;
+  font-family: "Gill Sans", sans-serif;
+}
+
+.row4 b{
+  font-size: 20px;
+}
+.row5{
+  background-color: white;
+  height:1850px ;
+  width:40px ;
+  border: 1px 0px  solid black;
+}
