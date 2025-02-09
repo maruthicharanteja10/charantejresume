@@ -1,6 +1,3 @@
-Below is an example README file (in Markdown format) that you could use for your resume project. You can save it as `README.md` in your project root.
-
----
 
 # CharantejResume
 
@@ -76,6 +73,4 @@ Since this is a static website, you can deploy it using any static hosting servi
 For any inquiries or suggestions regarding this resume, please contact:  
 [charantejdonthireddy@gmail.com](mailto:charantejdonthireddy@gmail.com)
 
----
 
-This README file gives a clear overview of your project and instructions for setup, customization, and deployment. Feel free to modify it as needed to better suit your personal details and project requirements.
