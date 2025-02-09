@@ -70,7 +70,7 @@ Since this is a static website, you can deploy it using any static hosting servi
 
 ## Contact
 
-For any inquiries or suggestions regarding this resume, please contact:  
+For any enquiries or suggestions regarding this resume, please contact:  
 [charantejdonthireddy@gmail.com](mailto:charantejdonthireddy@gmail.com)
 
 
